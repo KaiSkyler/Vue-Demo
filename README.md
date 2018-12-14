@@ -7,6 +7,7 @@ Vue+Vue-lazyload+Layui+V-viewer+Aui+Webpack
 
 ### 运行
 npm run dev
+###
 npm start
 
 ### 正式环境打包发布
