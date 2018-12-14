@@ -1,0 +1,31 @@
+{
+  "name": "picture-vue",
+  "version": "1.0.0",
+  "description": "picture-vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "cwk",
+  "license": "ISC",
+  "devDependencies": {
+    "layui-src": "^2.4.5",
+    "v-viewer": "^1.2.1",
+    "vue": "^2.5.20",
+    "vue-lazyload": "^1.2.6",
+    "vue-swiper": "^0.5.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {
+    "layui": "0.0.1",
+    "vue-concise-slider": "^3.3.6"
+  }
+}
